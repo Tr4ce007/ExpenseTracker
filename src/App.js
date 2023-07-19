@@ -40,7 +40,7 @@ const  App = () => {
 
   return (
     <div>
-    <h2 >Expense Tracker By Himanshu Singh</h2>
+    <h2 >Expense Tracker By Tr4ce007</h2>
     <NewExpense onAddExpense = {addExpenseHandler}/>
     <Expenses items={expenses}/>
     </div>
